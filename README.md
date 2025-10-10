@@ -1,0 +1,2 @@
+# Meta-Android-Developer-Professional-Certificate---Ders-Notlar-
+Bu depo, Meta Android Geliştirici Profesyonel Sertifikası eğitimim süresince hazırladığım ders notları ve önemli ipuçlarını bir araya getiriyor. Kendi tekrarım için bir kaynak olmanın yanı sıra, aynı yolda ilerleyen herkesin faydalanabileceği, açık kaynak bir bilgi bankasıdır. Katkıda bulunmak isteyenler veya soru sormak isteyenler için de açıktır!
